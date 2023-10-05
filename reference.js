@@ -263,11 +263,11 @@ engine.on("BET_PLACED", (bet) => {
 });
 
 
-/*********--------------************
- * File: reference.js
- * Description: A reference/template for creating bustabit v2 scripts.
- * Author: a3connor
- * Date: 2023-10-02
- * GitHub: https://github.com/a3connor 
- * Gist: https://gist.github.com/a3connor 
- *********--------------************/
+/*
+ :: [File] reference.js
+ :: [Description] a reference/template for creating bustabit v2 scripts.
+ :: [Author] a3connor
+ :: [Date] 2023-10-02
+ :: [GitHub] https://github.com/a3connor 
+ :: [Gist] https://gist.github.com/a3connor 
+ */
