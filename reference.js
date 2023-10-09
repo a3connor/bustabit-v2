@@ -22,12 +22,7 @@ var runtimeCount = 0;
     // currentPayout = config.basePayout.value,
     // randomNum = Math.floor(Math.random() * 16);
     
-var about = [
-    "---",
-    "scriptReference by a3connor",
-    "A reference/template for creating bustabit v2 scripts",
-    "---"
-];
+var about = [ "---", "A reference/template for creating bustabit v2 scripts", "reference.js (bab-v2) by a3connor" ];
 
 displayAbout(about);
 
